@@ -1,0 +1,44 @@
+Test
+Wizard Lvl. 1
+Tester
+You
+Human
+Good
+0
+11
++1
+8 / 8
+1d6 / 1d6
+0
+8
+12
+14
+17
+13
+11
+2
+True
+False
+False
+False
+True
+True
+False
+False
+False
+True
+False
+False
+True
+True
+False
+False
+False
+True
+False
+False
+False
+True
+False
+False
+False

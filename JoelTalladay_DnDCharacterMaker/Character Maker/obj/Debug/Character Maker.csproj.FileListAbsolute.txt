@@ -1,0 +1,18 @@
+E:\Personal\DnD\DnD Character Sheet Program\DnD Character Maker\Character Maker\bin\Debug\Character Maker.exe.config
+E:\Personal\DnD\DnD Character Sheet Program\DnD Character Maker\Character Maker\bin\Debug\Character Maker.exe
+E:\Personal\DnD\DnD Character Sheet Program\DnD Character Maker\Character Maker\bin\Debug\Character Maker.pdb
+E:\Personal\DnD\DnD Character Sheet Program\DnD Character Maker\Character Maker\obj\Debug\Character Maker.csprojAssemblyReference.cache
+E:\Personal\DnD\DnD Character Sheet Program\DnD Character Maker\Character Maker\obj\Debug\Character_Maker.Form1.resources
+E:\Personal\DnD\DnD Character Sheet Program\DnD Character Maker\Character Maker\obj\Debug\Character_Maker.Properties.Resources.resources
+E:\Personal\DnD\DnD Character Sheet Program\DnD Character Maker\Character Maker\obj\Debug\Character Maker.csproj.GenerateResource.cache
+E:\Personal\DnD\DnD Character Sheet Program\DnD Character Maker\Character Maker\obj\Debug\Character Maker.exe
+E:\Personal\DnD\DnD Character Sheet Program\DnD Character Maker\Character Maker\obj\Debug\Character Maker.pdb
+C:\Users\joelt\Documents\GitHub\DnD_CharacterSheetMaker\JoelTalladay_DnDCharacterMaker\Character Maker\bin\Debug\Character Maker.exe.config
+C:\Users\joelt\Documents\GitHub\DnD_CharacterSheetMaker\JoelTalladay_DnDCharacterMaker\Character Maker\bin\Debug\Character Maker.exe
+C:\Users\joelt\Documents\GitHub\DnD_CharacterSheetMaker\JoelTalladay_DnDCharacterMaker\Character Maker\bin\Debug\Character Maker.pdb
+C:\Users\joelt\Documents\GitHub\DnD_CharacterSheetMaker\JoelTalladay_DnDCharacterMaker\Character Maker\obj\Debug\Character Maker.csprojAssemblyReference.cache
+C:\Users\joelt\Documents\GitHub\DnD_CharacterSheetMaker\JoelTalladay_DnDCharacterMaker\Character Maker\obj\Debug\Character_Maker.Form1.resources
+C:\Users\joelt\Documents\GitHub\DnD_CharacterSheetMaker\JoelTalladay_DnDCharacterMaker\Character Maker\obj\Debug\Character_Maker.Properties.Resources.resources
+C:\Users\joelt\Documents\GitHub\DnD_CharacterSheetMaker\JoelTalladay_DnDCharacterMaker\Character Maker\obj\Debug\Character Maker.csproj.GenerateResource.cache
+C:\Users\joelt\Documents\GitHub\DnD_CharacterSheetMaker\JoelTalladay_DnDCharacterMaker\Character Maker\obj\Debug\Character Maker.exe
+C:\Users\joelt\Documents\GitHub\DnD_CharacterSheetMaker\JoelTalladay_DnDCharacterMaker\Character Maker\obj\Debug\Character Maker.pdb
